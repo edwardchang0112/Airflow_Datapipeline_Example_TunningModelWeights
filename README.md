@@ -5,6 +5,14 @@ In this project, there is an example for you to build you tasks on airflow, such
 
 For this project, we try to use amount of user's data on using our product, which is skincare related, to train a model, then based on the model to recommand user a customized solution. Hence, tunning a better weights for the model is important.
 
+## Setting
+
+1. Install airflow
+2. $airflow start
+3. $airflow webserver -p 8080 (the ip you want)
+4. $airflow scheduler
+5. Go to localhost:8080, then there it is!
+
 ## Tasks
 
 This project try to do following tasks:
