@@ -25,4 +25,4 @@ This project try to do following tasks:
 
 This provide you the basic structure, and you can follow this example to extends the data pipeline to extend the stucture for your application.
 
-![image]()
+![image](https://github.com/edwardchang0112/Airflow_Datapipeline_Example_TunningModelWeights/blob/master/DataPipelineExample.png)
