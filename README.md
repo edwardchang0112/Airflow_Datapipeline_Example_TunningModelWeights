@@ -1,5 +1,5 @@
 # Airflow_Datapipeline_Example_TunningModelWeights
-In this project, there is an example for you to build you tasks on airflow, such as model trainning, testing performance, etc.
+In this project, there is an example for you to build you tasks on airflow, such as model training, testing performance, etc.
 
 ## As an example for every one can easily deploy projects on airflow
 
